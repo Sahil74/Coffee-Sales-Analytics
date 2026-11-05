@@ -6,7 +6,7 @@ I built this Excel dashboard to explore coffee sales across different coffee typ
 
 Rather than looking at the sales records individually, I wanted to bring the information together in a dashboard where I could compare product performance, identify valuable customers and explore how sales changed over time.
 
-![db](COFFE.png)
+![db](COFEE.png)
 
 ## What I Found
 
