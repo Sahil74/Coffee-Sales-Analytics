@@ -6,6 +6,8 @@ I built this Excel dashboard to explore coffee sales across different coffee typ
 
 Rather than looking at the sales records individually, I wanted to bring the information together in a dashboard where I could compare product performance, identify valuable customers and explore how sales changed over time.
 
+![db](COFFE.png)
+
 ## What I Found
 
 * **Light-roast Excelsa stands out in the roast comparison.** Its chart value is approximately 2,280, the highest among the coffee type and roast combinations shown. Light-roast Arabica is also relatively strong at around 2,000.
